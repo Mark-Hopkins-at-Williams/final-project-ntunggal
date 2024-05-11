@@ -1,10 +1,11 @@
 # CSCI 381 Final Project
 
 Group members:
-- please list your
-- group members
-- here!
+- Nathaniel Tunggal
+- Matthew Wu
 
-Also, add any files to this repository that you would need as part of your final project submission.
+The link to our submission repository:
+https://github.com/MatthewYilong/Deep_Learning_Final_Prpject.git
 
 Finally, put any special instructions in this README about how to use your code/notebook.
+Our notebook is mainly an explanation/demonstration of LSTMs.
