@@ -4,4 +4,4 @@ Group members:
 - Nathaniel Tunggal
 - Matthew Wu
 
-Our notebook is mainly an explanation/demonstration of LSTMs.
+Our notebook `lstm-intro` is mainly an explanation/demonstration of LSTMs.
